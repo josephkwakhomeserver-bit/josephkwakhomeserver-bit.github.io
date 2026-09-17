@@ -1,0 +1,58 @@
+[
+  {
+    "midi": 36,
+    "file": "n36.wav",
+    "bytes": 176444,
+    "source": "C2v6.flac",
+    "sourceSha256": "8f6447953c23ee4147ac090740db1fa6aa7866fa71f50f6b79e11627b934d6f9"
+  },
+  {
+    "midi": 42,
+    "file": "n42.wav",
+    "bytes": 176444,
+    "source": "F#2v6.flac",
+    "sourceSha256": "bd9b013a9fc065180e249ba34f7fea87014bb49a0822a867756011c8c8b20d4d"
+  },
+  {
+    "midi": 48,
+    "file": "n48.wav",
+    "bytes": 176444,
+    "source": "C3v6.flac",
+    "sourceSha256": "ba2fc308c3a6cd20797df32cc67b786be510178f0e36e8906165fa0f56d89bc2"
+  },
+  {
+    "midi": 54,
+    "file": "n54.wav",
+    "bytes": 176444,
+    "source": "F#3v6.flac",
+    "sourceSha256": "74450756324f4bd405dcb576c483349af159cf0f9e4696d75b1c0a5e222f107c"
+  },
+  {
+    "midi": 60,
+    "file": "n60.wav",
+    "bytes": 176444,
+    "source": "C4v6.flac",
+    "sourceSha256": "34483e5fc6aff00789419747af639bca5ac0e2d0740dd320ca009e0fb7795c31"
+  },
+  {
+    "midi": 66,
+    "file": "n66.wav",
+    "bytes": 176444,
+    "source": "F#4v6.flac",
+    "sourceSha256": "c46b4f43f2dc73671c8636c3aafd6ec9c3a23411afd03d968511bd0e3b58e62c"
+  },
+  {
+    "midi": 72,
+    "file": "n72.wav",
+    "bytes": 176444,
+    "source": "C5v6.flac",
+    "sourceSha256": "9a941f71b43929327669990f999e91b1573ec320127cdba000c97964d8fd3ff1"
+  },
+  {
+    "midi": 78,
+    "file": "n78.wav",
+    "bytes": 176444,
+    "source": "F#5v6.flac",
+    "sourceSha256": "fe84fdd051a934c8bbc6975c1200cfd8c926624facdabb540092b06441d9659b"
+  }
+]

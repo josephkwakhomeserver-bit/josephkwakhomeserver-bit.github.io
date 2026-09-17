@@ -1,0 +1,17 @@
+ChordJam small sampled piano
+
+Original: Salamander Grand Piano v3 by Alexander Holm.
+License: Creative Commons Attribution 3.0 Unported (CC BY 3.0).
+https://creativecommons.org/licenses/by/3.0/
+Full legal text: LICENSE.txt in this directory.
+Original collection: https://archive.org/details/SalamanderGrandPianoV3
+FLAC source: https://github.com/sfzinstruments/SalamanderGrandPiano
+FLAC remapping by kinwie. No SFZ code or presets are included.
+
+ChordJam modifications: eight velocity-6 notes C2 through F#5 in six-semitone
+steps; stereo averaged to mono; leading silence trimmed to 2 ms before a
+0.001 amplitude threshold; first four seconds retained; antialiased resampling
+48 kHz to 22.05 kHz; peak normalized to 0.82; final 100 ms faded to silence;
+PCM 16-bit WAV encoding. These modified samples retain CC BY 3.0.
+See manifest.json for original filenames, SHA-256 hashes and output sizes.
+No endorsement by the original author is implied.
