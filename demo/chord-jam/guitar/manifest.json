@@ -1,0 +1,63 @@
+{
+  "sourceVersion": "2019-06-18",
+  "archiveSha256": "ef2fb7de0cc0ab561c4ebc28494f3fc2962596e4f32f16d6c96b8a385c7c098b",
+  "license": "CC0-1.0",
+  "samples": [
+    {
+      "midi": 40,
+      "source": "samples/E2.wav",
+      "file": "n40.wav",
+      "bytes": 264644,
+      "sha256": "65105cb3fa4e5410fb7647184162ad7cbde40b1a6d5bd1dd6016db5cba360138"
+    },
+    {
+      "midi": 45,
+      "source": "samples/A2.wav",
+      "file": "n45.wav",
+      "bytes": 264644,
+      "sha256": "04d06380ea834faa26e217f1734ba25c86d0eaa523d0ceed074a4b7d08c03aad"
+    },
+    {
+      "midi": 50,
+      "source": "samples/D3.wav",
+      "file": "n50.wav",
+      "bytes": 264644,
+      "sha256": "396179f1fc3091e19c1e713ae2b51b5a0ca1a71be8625d118bc097a80d9eee03"
+    },
+    {
+      "midi": 55,
+      "source": "samples/G3.wav",
+      "file": "n55.wav",
+      "bytes": 264644,
+      "sha256": "06a978fc0b64a5e8439155d53fbc9509795c9e602adb96a3ecbb2f82a656123f"
+    },
+    {
+      "midi": 60,
+      "source": "samples/C4.wav",
+      "file": "n60.wav",
+      "bytes": 213298,
+      "sha256": "8fa4e8dbf8be5abf80b0aa09fb57089382dbce32dc77ee55e1ae155fd05be75b"
+    },
+    {
+      "midi": 65,
+      "source": "samples/F4.wav",
+      "file": "n65.wav",
+      "bytes": 264644,
+      "sha256": "e11565a565f12770caa9a08d21b9b2c1bfea119a18fc74295318f28d58e82bd8"
+    },
+    {
+      "midi": 70,
+      "source": "samples/A#4.wav",
+      "file": "n70.wav",
+      "bytes": 209070,
+      "sha256": "987f61c8a25d59f8d012023c0fb15675461737145516bf2b2c1b56fc154ebbbb"
+    },
+    {
+      "midi": 76,
+      "source": "samples/E5.wav",
+      "file": "n76.wav",
+      "bytes": 118164,
+      "sha256": "648911464816790cfc9fbaed3a53d2e30e32749197d32ffa5746dd764fb375e5"
+    }
+  ]
+}

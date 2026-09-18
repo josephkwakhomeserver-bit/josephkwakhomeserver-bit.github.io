@@ -1,0 +1,6 @@
+Spanish classical guitar, FreePats, version 2019-06-18
+Recorded in 2008 by roberto@zenvoid.org; AKG Perception 120 microphone.
+Source: https://freepats.zenvoid.org/Guitar/acoustic-guitar.html
+Archive: https://freepats.zenvoid.org/Guitar/SpanishClassicalGuitar/SpanishClassicalGuitar-SFZ-20190618.7z
+License: CC0 1.0 public domain dedication (LICENSE.txt).
+ChordJam modifications: select eight notes using SFZ pitch centers; trim to at most 3s; DC removal; 2ms attack and 80ms end fades; peak normalize to 0.78; preserve mono PCM16 44100Hz. Single velocity layer, no loops. No song recordings.
