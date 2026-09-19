@@ -1,0 +1,26 @@
+[
+  {
+    "title": "ChordJam Accompanist",
+    "description": "Enter a chord progression and practice singing with looping browser-based guitar or piano accompaniment.",
+    "slug": "chord-jam",
+    "href": "/demo/chord-jam/"
+  },
+  {
+    "title": "Jurassic Dash",
+    "description": "A cute phone-first prehistoric runner with archery, dinosaur rides, sabertooths, mammoths and local high scores.",
+    "slug": "jurassic-dash",
+    "href": "/demo/jurassic-dash/"
+  },
+  {
+    "title": "SoundSeed Studio",
+    "description": "Generate original instrumental loops in your browser from a prompt, mood, genre and deterministic seed — no backend or API key.",
+    "slug": "music-generator",
+    "href": "/demo/music-generator/"
+  },
+  {
+    "title": "Emberwild: First Hearth",
+    "description": "An original prehistoric RTS. Gather, build and lead your tribe against a rival settlement, or survive five dinosaur hunts.",
+    "slug": "prehistoric-rts",
+    "href": "/demo/prehistoric-rts/"
+  }
+]
